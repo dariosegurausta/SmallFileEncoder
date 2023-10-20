@@ -1,0 +1,103 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="OriginalTemplates\DS_D_A_2023_07_07_06_41_56_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_D_C_2023_07_07_06_42_03_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_D_I_2023_07_07_06_42_07_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_D_M_2023_07_07_06_41_47_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_D_P_2023_07_07_06_42_20_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_I_A_2023_07_07_06_42_40_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_I_C_2023_07_07_06_42_45_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_I_I_2023_07_07_06_42_48_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_I_M_2023_07_07_06_42_36_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\DS_I_P_2023_07_07_06_42_52_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_D_A_2023_07_07_06_47_05_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_D_C_2023_07_07_06_47_07_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_D_I_2023_07_07_06_47_10_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_D_M_2023_07_07_06_47_01_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_D_P_2023_07_07_06_47_16_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_I_A_2023_07_07_06_47_27_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_I_C_2023_07_07_06_47_30_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_I_I_2023_07_07_06_47_32_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_I_M_2023_07_07_06_47_24_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\JH_I_P_2023_07_07_06_47_38_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_D_A_2023_07_07_06_45_41_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_D_C_2023_07_07_06_45_45_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_D_I_2023_07_07_06_46_02_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_D_M_2023_07_07_06_45_35_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_D_P_2023_07_07_06_46_11_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_I_A_2023_07_07_06_46_25_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_I_C_2023_07_07_06_46_28_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_I_I_2023_07_07_06_46_31_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_I_M_2023_07_07_06_46_21_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OriginalTemplates\WR_I_P_2023_07_07_06_46_40_.tmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
